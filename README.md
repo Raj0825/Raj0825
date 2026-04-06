@@ -40,3 +40,7 @@ I build production-ready applications with a focus on **Java, Spring Boot, and C
 - **LinkedIn:** [linkedin.com/in/raj-shah-04b465315/](https://www.linkedin.com/in/raj-shah-04b465315/)
 - **Email:** rajshah0925@gmail.com
 - **Portfolio:** [Check out my pinned repositories below! 👇]
+
+### 📊 GitHub Stats
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raj0825&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj0825&layout=compact&theme=radical)
