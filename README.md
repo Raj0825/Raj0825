@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Raj Shah! 👋 
+**Software Engineering Student @ Walchand Institute of Technology**
 
-<!--
-**Raj0825/Raj0825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production-ready applications with a focus on **Java, Spring Boot, and Cloud Native architecture**. I'm passionate about backend fundamentals, clean code, and shipping software that actually works in the real world.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+#### 📚 [Cloud-Native Bookstore](https://github.com/Raj0825/Bookstore) (In Progress)
+*A full-stack e-commerce engine with a microservices-ready architecture.*
+- **Backend:** Java 17, Spring Boot 3.0, Spring Security (JWT), Hibernate.
+- **Key Features:** Role-based access control, BCrypt encryption, and a SQL-based recommendation engine.
+- **Status:** Implementing automated stock sync and dynamic shipping logic.
+
+#### 📝 [Notes Manager](https://github.com/Raj0825/Note_App-Frontend-) | [Live Demo](https://raj0825.github.io/Note_App-Frontend-/)
+*Full-stack CRUD application with containerized deployment.*
+- **Tech:** Spring Boot, REST APIs, Docker, GitHub Pages, Render.
+- **Solved:** CORS configuration and cloud deployment latency issues.
+
+---
+
+### 🛠 My Technical Toolbox
+
+- **Languages:** `Java`, `SQL`, `Python`, `JavaScript`
+- **Frameworks:** `Spring Boot`, `Spring Security`, `JPA/Hibernate`, `Maven`
+- **DevOps & Cloud:** `Docker`, `Render`, `Aiven Cloud`, `Git/GitHub`
+- **Concepts:** `RESTful Architecture`, `OOP`, `Database Management (DBMS)`
+
+---
+
+### 📊 Coding Activity & Interests
+- 🏆 **Problem Solving:** 120+ problems solved on LeetCode focusing on DSA fundamentals.
+- ☁️ **Learning:** Currently diving deeper into **AWS** and **Microservices**.
+- ⚡ **Fun Fact:** I'm a morning person (7 AM Gym) and a GTA: Vice City completionist.
+
+---
+
+### 📫 Connect with me:
+- **LinkedIn:** [linkedin.com/in/raj-shah-04b465315/](https://www.linkedin.com/in/raj-shah-04b465315/)
+- **Email:** rajshah0925@gmail.com
+- **Portfolio:** [Check out my pinned repositories below! 👇]
