@@ -1,5 +1,3 @@
-https://img.shields.io/badge/LABEL-COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white
-
 # Hi, I'm Raj Shah! 👋 
 **Software Engineering Student @ Walchand Institute of Technology**
 
