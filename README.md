@@ -29,13 +29,6 @@ I build production-ready applications with a focus on **Java, Spring Boot, and C
 
 ---
 
-### 📊 Coding Activity & Interests
-- 🏆 **Problem Solving:** 120+ problems solved on LeetCode focusing on DSA fundamentals.
-- ☁️ **Learning:** Currently diving deeper into **AWS** and **Microservices**.
-- ⚡ **Fun Fact:** I'm a morning person (7 AM Gym) and a GTA: Vice City completionist.
-
----
-
 ### 📫 Connect with me:
 - **LinkedIn:** [linkedin.com/in/raj-shah-04b465315/](https://www.linkedin.com/in/raj-shah-04b465315/)
 - **Email:** rajshah0925@gmail.com
