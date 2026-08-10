@@ -1,48 +1,110 @@
-# Hi, I'm Raj Shah! 👋 
+Here is a polished, professional, and eye-catching **GitHub Readme** update tailored for your profile. It highlights your actual project stack, elevates your bio, and uses clean formatting with badges to make your profile stand out.
+
+---
+
+# Hi, I'm Raj Shah! 👋
+
 **Software Engineering Student @ Walchand Institute of Technology**
 
-I build production-ready applications with a focus on **Java, Spring Boot, and Cloud Native architecture**. I'm passionate about backend fundamentals, clean code, and shipping software that actually works in the real world.
+*Backend-focused engineer building production-ready applications with Java, Spring Boot, and Cloud Native architecture.*
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 About Me
 
-#### 💰 [SpendSmart – Expense Tracker](https://github.com/Raj0825/Expense-Tracker-Application)
+* 🎓 Computer Science Student at Walchand Institute of Technology (GPA: 8.9/10)
 
-*A cloud-deployed personal finance management platform with secure authentication and analytics.*
 
-* **Tech Stack:** Java 17, Spring Boot 3, Spring Security (JWT), Hibernate/JPA, MySQL, HTML, CSS, JavaScript.
-* **Cloud:** Render, Aiven MySQL, GitHub Pages.
-* **Features:** Expense management, monthly budgeting, category-based reports, spending insights, user profiles, and secure JWT authentication.
-* **Highlights:** Designed and deployed a complete full-stack application with cloud database integration and production-ready API architecture.
+* 💼 Backend Software Engineering Intern at Elevance Skill Technology
 
-#### 📚 [Cloud-Native Bookstore](https://github.com/Raj0825/Bookstore) (In Progress)
 
-*A full-stack e-commerce engine with a microservices-ready architecture.*
+* 🛠️ Specialized in **Java, Spring Boot, RESTful APIs, and Cloud Deployments**
 
-* **Backend:** Java 17, Spring Boot 3.0, Spring Security (JWT), Hibernate.
-* **Key Features:** Role-based access control, BCrypt encryption, and SQL-based recommendation engine.
-* **Status:** Implementing automated stock sync and dynamic shipping logic.
+* 🎯 Passionate about backend fundamentals, clean code, and building high-performance real-world systems.
 
-#### 📝 [Notes Manager](https://github.com/Raj0825/Note_App-Frontend-) | [Live Demo](https://raj0825.github.io/Note_App-Frontend-/)
 
-*Full-stack CRUD application with containerized deployment.*
-
-* **Tech:** Spring Boot, REST APIs, Docker, GitHub Pages, Render.
-* **Solved:** CORS configuration and cloud deployment latency issues.
 
 ---
 
-### 🛠 My Technical Toolbox
+## 🛠️ Technical Toolbox
 
-- **Languages:** `Java`, `SQL`, `Python`, `JavaScript`
-- **Frameworks:** `Spring Boot`, `Spring Security`, `JPA/Hibernate`, `Maven`
-- **DevOps & Cloud:** `Docker`, `Render`, `Aiven Cloud`, `Git/GitHub`
-- **Concepts:** `RESTful Architecture`, `OOP`, `Database Management (DBMS)`
+**Languages:**
+
+`Java` `Python` `SQL` `JavaScript` `HTML/CSS`
+
+**Backend & Frameworks:**
+
+`Spring Boot 3` `Spring Security (JWT)` `Spring Data JPA` `Hibernate` `JUnit 5` `Mockito`
+
+**DevOps & Cloud:**
+
+`Docker` `Render` `Aiven MySQL` `Git/GitHub` `GitHub Actions (CI)` `Postman`
+
+**Core Concepts:**
+
+`RESTful Architecture` `Object-Oriented Programming (OOP)` `Data Structures & Algorithms` `RAG Architecture`
 
 ---
 
-### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/raj-shah-04b465315/](https://www.linkedin.com/in/raj-shah-04b465315/)
-- **Email:** rajshah0925@gmail.com
-- **Portfolio:** [Check out my pinned repositories below! 👇]
+## 🌟 Featured Projects
+
+### 🤖 [Askly – AI-Powered PDF QA System](https://www.google.com/search?q=https://github.com/Raj0825/Askly)
+
+> **Java | Spring Boot | Gemini API | MySQL | Apache PDFBox**
+> 
+
+* Developed a **Retrieval-Augmented Generation (RAG)** application providing grounded QA with page-level citations from uploaded documents.
+
+
+* Built the retrieval pipeline from scratch in Java (pdf parsing, text chunking, vector embedding generation, and cosine similarity search) without external vector libraries.
+
+
+* Grounded AI response generation strictly on document source context using Google's Gemini API.
+
+
+
+---
+
+### 💰 [SpendSmart – Expense Tracker](https://www.google.com/search?q=https://spendsmart-api-ooqh.onrender.com)
+
+> **Java 17 | Spring Boot | Spring Security (JWT) | MySQL | Render | GitHub Pages**
+> 
+
+* Full-stack personal finance platform for secure transaction monitoring, monthly budgeting, and analytics.
+
+
+* Designed RESTful APIs secured with **JWT-based authentication** using Spring Security.
+
+
+* Integrated cloud database persistence via **Aiven MySQL** with automated data sync.
+
+
+
+---
+
+### 📝 [Notes Manager App](https://www.google.com/search?q=https://raj0825.github.io/Note_App-Frontend/)
+
+> **Java | Spring Boot | Docker | REST APIs | Render | GitHub Pages**
+> 
+
+* Full-stack notes management platform featuring decoupled backend microservice architecture.
+
+
+* **Containerized** backend using Docker and solved cross-origin communication rules (CORS) across cloud deployments.
+
+
+
+---
+
+### 📚 Cloud-Native E-Commerce Platform *(In Progress)*
+
+> **Java 17 | Spring Boot | Spring Security (JWT) | Hibernate | MySQL**
+> 
+
+* E-commerce backend engine featuring role-based access control, BCrypt password encryption, and a custom SQL recommendation engine.
+
+
+
+---
+
+## 📈 Stats & Activity
