@@ -1,6 +1,6 @@
 ---
 
-# Hi, I'm Raj Shah! 👋
+## Hi, I'm Raj Shah! 👋
 
 **Software Engineering Student @ Walchand Institute of Technology**
 
