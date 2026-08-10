@@ -1,5 +1,3 @@
-Here is a polished, professional, and eye-catching **GitHub Readme** update tailored for your profile. It highlights your actual project stack, elevates your bio, and uses clean formatting with badges to make your profile stand out.
-
 ---
 
 # Hi, I'm Raj Shah! 👋
